@@ -5,7 +5,7 @@ Combine the numbered tiles to reach the legendary **2048** tile! Can you master 
 
 ## How to Play ▶️
 
-1. **Use Arrow Keys** ⬆️⬇️⬅️➡️ to move the tiles.
+1. **Use Arrow Keys** ⬆️"W"⬇️"S"⬅️"A"➡️"D" to move the tiles.
 2. When two tiles with the same number touch, they **merge into one!** 🔗
 3. Every move adds a new tile to the board.
 4. Reach the **2048 tile** to win! 🎉
