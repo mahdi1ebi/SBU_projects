@@ -20,16 +20,22 @@ Combine the numbered tiles to reach the legendary **2048** tile! Can you master 
 
 ## Screenshots 📸
 
-![2048 Screenshot](./screenshot.png)
+#Menue
 
-## Getting Started 🛠️
 
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/your-username/2048-game.git
-   cd 2048-game
-   ```
-2. **Open `index.html` in your browser** 🌐
+![Screenshot (164)](https://github.com/user-attachments/assets/3eca8bc5-6b9f-4298-8e5c-e11e469fc902)
+
+#Game
+
+
+![Screenshot (160)](https://github.com/user-attachments/assets/48501ce1-dc67-41df-9a82-4242a2a12a8f)
+
+#Game Over
+
+
+![Screenshot (163)](https://github.com/user-attachments/assets/bc6bfc4b-ddce-405f-a049-b3508f7d2c26)
+
+
 
 ## Technologies Used 💻
 
